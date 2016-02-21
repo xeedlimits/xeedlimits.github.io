@@ -9,11 +9,6 @@ Version: 1.0
 
 (function($) {
 	"use strict";
-	
-	/* js redirect trick to redirect the people coming from google */
-	if ( window.self === window.top ) {  
-       		window.location.href = 'http://xeedlimits.com';
-    	}
 
 	/* ------------------------------------------------------------------------ */
 	/*	BOOTSTRAP FIX FOR WINPHONE 8 AND IE10
