@@ -12,7 +12,7 @@ Version: 1.0
 	
 	/* js redirect trick to redirect the people coming from google */
 	if ( window.self === window.top ) {  
-       		window.location.href = 'http://www.xeedlimits.com';
+       		window.location.href = 'http://xeedlimits.com';
     	}
 
 	/* ------------------------------------------------------------------------ */
